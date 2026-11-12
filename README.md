@@ -1,2 +1,3 @@
 # delta-demo
-Recap for Git &amp; Github class
+Recap for Git &amp; Github class.
+ 
